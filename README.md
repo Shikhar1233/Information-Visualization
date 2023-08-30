@@ -21,7 +21,6 @@ Link for the abstract:-https://www.overleaf.com/project/64ed0f6da1be69eadc31b93f
 >
 >link for the Tabealu sheets:-https://public.tableau.com/app/profile/shikhar.sharma1723/viz/informationvisualization/Sheet1
 
->Here's the tableau link: https://public.tableau.com/shared/Q84N57XD2?:display_count=n&:origin=viz_share_link
 
 # ResearchPaper:
 >Here is the Research paper related to the abstract credited from a respectable source
