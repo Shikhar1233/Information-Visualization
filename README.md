@@ -18,7 +18,10 @@ Link for the abstract:-https://www.overleaf.com/project/64ed0f6da1be69eadc31b93f
 # Tableau:
 >In tableau section I used the same datasets and made few graphs regarding my data.
 >Here's the sample overview of my data:
->
+>![Sheet 1](https://github.com/Shikhar1233/Information-Visualization/assets/101494858/ef3ebe78-1eb5-47b1-927e-00574904f6b9)
+![Sheet 3](https://github.com/Shikhar1233/Information-Visualization/assets/101494858/8502a82e-3f5b-48a0-8abe-7f8788fcc145)
+![Sheet 2](https://github.com/Shikhar1233/Information-Visualization/assets/101494858/35eae0f5-3c46-41fb-936e-32ffc71b570a)
+
 >link for the Tabealu sheets:-https://public.tableau.com/app/profile/shikhar.sharma1723/viz/informationvisualization/Sheet1
 
 
