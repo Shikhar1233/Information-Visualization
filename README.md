@@ -14,6 +14,9 @@ Link for the abstract:-https://www.overleaf.com/project/64ed0f6da1be69eadc31b93f
 
 # Matplotlib: 
 >For data visualization we use python(Matplotlib) and the dataset which I used was my attendance.
+>![info-viz 1](https://github.com/Shikhar1233/Information-Visualization/assets/101494858/625f4a5c-91b8-46f8-ba9f-18f64ad3963a)
+>![info-viz2](https://github.com/Shikhar1233/Information-Visualization/assets/101494858/da06b769-6499-4194-9925-9f82edf18d2d)
+
 
 # Tableau:
 >In tableau section I used the same datasets and made few graphs regarding my data.
